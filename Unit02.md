@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA231: Abstract Algebra I"
+course_description: "A survey of how attributes of sets of mathematical objects behave when one or more properties we associate with real numbers are restricted, through a review of basic set theory, integers, and functions, followed by an exploration of the fundamentals of groups, rings, and fields."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Fundamentals of Groups** <span id="2"></span> 
 *Groups are the most fundamental of all algebraic structures. 
 Consisting of a set with an operator (often called a binary operator),

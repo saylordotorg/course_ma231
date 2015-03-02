@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA231: Abstract Algebra I"
+course_description: "A survey of how attributes of sets of mathematical objects behave when one or more properties we associate with real numbers are restricted, through a review of basic set theory, integers, and functions, followed by an exploration of the fundamentals of groups, rings, and fields."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Fundamentals of Rings** <span id="3"></span> 
 *Rings are “larger” structures than groups, because they are sets with
 two binary operators instead of one and because they have more

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA231: Abstract Algebra I"
+course_description: "A survey of how attributes of sets of mathematical objects behave when one or more properties we associate with real numbers are restricted, through a review of basic set theory, integers, and functions, followed by an exploration of the fundamentals of groups, rings, and fields."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Preliminary Information** <span id="1"></span> 
 *Before we can begin looking at algebraic structures, such as groups,
 rings, and fields, we must review the information that provides the

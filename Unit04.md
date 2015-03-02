@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA231: Abstract Algebra I"
+course_description: "A survey of how attributes of sets of mathematical objects behave when one or more properties we associate with real numbers are restricted, through a review of basic set theory, integers, and functions, followed by an exploration of the fundamentals of groups, rings, and fields."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Fundamentals of Fields** <span id="4"></span> 
 *We conclude this course with a unit on fields.  Fields are general sets
 with some defined operations of addition and multiplication that have
