@@ -73,3 +73,4 @@ Adobe Reader, QuickTime, and Flash viewer).
 - [Unit 3](https://legacy.saylor.org/ma231/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma231/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma231/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA231/MA231-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA231/MA231-FinalExam-Answers.html)
