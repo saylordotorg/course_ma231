@@ -87,7 +87,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: “Field (Mathematics)”**
     Link: Wikipedia: “[Field
-    (Mathematics)](http://www.saylor.org/site/wp-content/uploads/2011/04/Field-mathematics.pdf)”
+    (Mathematics)](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Field-mathematics.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage for a concise
@@ -105,12 +105,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Fields” and “Rings”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Fields” and
-    “Rings”](http://www.saylor.org/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Rings”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Please read “21.1 Extension Fields,” pages 329-340,
     and then read “16.3 Ring Homomorphisms and Ideals,” pages 246-250.  
@@ -128,12 +128,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Fields”: “Exercise
     Problem
-    2”](http://www.saylor.org/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Work through problem 2 on page 350.  Then, check the
     solution on page 407.  
@@ -150,12 +150,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Fields”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Fields”](http://www.saylor.org/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Fields”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Please read “21.2 Splitting Fields,” pages 340-343.  
         
@@ -172,11 +172,11 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Fields”: “Exercise
     Problem
-    3”](http://www.saylor.org/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
+    3”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Complete problem 3 on page 350, and then check your
     answer on page 407.  
@@ -207,7 +207,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: “Algebraic Closure”**
     Link: Wikipedia: “[Algebraic
-    Closure](http://www.saylor.org/site/wp-content/uploads/2011/04/Algebraic-closure.pdf)”
+    Closure](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Algebraic-closure.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage.  This webpage
@@ -240,7 +240,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: “Separable Extensions”**
     Link: Wikipedia: “[Separable
-    Extension](http://www.saylor.org/site/wp-content/uploads/2011/04/Seperable-extension.pdf)”
+    Extension](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Seperable-extension.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage for a concise
