@@ -58,12 +58,12 @@ Upon successful completion of this unit, the student will be able to:
     Relations”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Sets and Equivalence
-    Relations”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    Relations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Please click on the link above.  For the section on
     sets, read “1.2 Sets and Equivalence Relations,” pages 4-5.  Please
@@ -79,7 +79,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Reading: Wikibooks: “Set Theory/Sets”**
     Link: Wikibooks: “[Set
-    Theory/Sets](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Set-Theory_Sets.pdf)”
+    Theory/Sets](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Set-Theory_Sets.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage.  This link provides
@@ -147,11 +147,11 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Preliminaries”:
     “Exercise Problems 1 and
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions:  Work through problems 1 and 2 on page 18.  After you
     have completed each problem, check your answers with the solutions
@@ -171,12 +171,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W.
     Judson’s [Abstract Algebra Theory and Applications: “Sets and
     Equivalence
-    Relations”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    Relations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions:  For the section on examples of sets, read “1.2 Sets
     and Equivalence Relations,” page 5.  This PDF file will be used for
@@ -207,12 +207,12 @@ Upon successful completion of this unit, the student will be able to:
     Relations”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)*: *“Sets
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)*: *“Sets
     and Equivalence Relations” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “1.2 Sets
     and Equivalence Relations,” pages 5-8.  Please note that page 5 is a
@@ -242,12 +242,12 @@ Upon successful completion of this unit, the student will be able to:
     Problems 6, 10, and 14”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
     “Preliminaries”: “Exercise Problems 6, 10, and 14” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Please work through problems 6, 10, and 14 on page
     19.  After you have completed all of the assigned problems, check
@@ -266,12 +266,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “The Integers”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “The
-    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    Integers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “2.2 The
     Division Algorithm,” on pages 26-29.  
@@ -289,11 +289,11 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Integers”: “Exercise
     Problems 19 and
-    23”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
+    23”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions:  Complete problems 19 and 23 on page 33.  Then, check
     your answers against the solutions on page 396.  
@@ -310,12 +310,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “The Integers”**
     Link: Stephen F. Austin State University: Thomas W.
     Judson’s [Abstract Algebra Theory and Applications: “The
-    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    Integers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions:  For the section on examples of sets, read “2.2 The
     Division Algorithm,” pages 29-30.  
@@ -333,12 +333,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Integers”: “Exercise
     Problems 27 and
-    29”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    29”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions:  Complete problems 27 and 29 on page 33.  Then, check
     your answers against the solutions on page 396.  
@@ -393,12 +393,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Groups”: “Exercise
     Problem
-    1”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    1”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Complete problem 1 on page 49.  Then, check your
     answer with the solution on page 397.  
@@ -416,12 +416,12 @@ Upon successful completion of this unit, the student will be able to:
     Relations”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)”
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)”
     “Sets and Equivalence Relations” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “1.2 Sets
     and Equivalence Relations,” pages 8-15.  
@@ -451,12 +451,12 @@ Upon successful completion of this unit, the student will be able to:
     Problems 18, 20, and 22”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)*: *“Preliminaries”:
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)*: *“Preliminaries”:
     “Exercise Problems 18, 20, and 22” (PDF)  
         
      Also available in:   
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Work through problems 18, 20, and 22 on page 19. 
     Then, check your answers with the solutions on page 395.  
