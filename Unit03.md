@@ -101,12 +101,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Rings”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Rings”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Rings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “16.1
     Rings,”pages 239-244.  
@@ -159,12 +159,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:“Rings”: “Exercise
     Problems 1 and
-    3”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Try to do problems 1 and 3 on page 257.  Then, check
     the solutions on page 405.  
@@ -179,7 +179,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.2 Example of Rings** <span id="3.2"></span> 
 -   **Reading: Wikipedia: “Ring (Mathematics)”**
     Link: Wikipedia: “[Ring
-    (Mathematics)](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Ring-mathematics.pdf)”
+    (Mathematics)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Ring-mathematics.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage.  This webpage
@@ -213,7 +213,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.3.1 Commutative Rings** <span id="3.3.1"></span> 
 -   **Reading: Wikipedia: Commutative Ring**
     Link: Wikipedia: “[Commutative
-    Ring](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Commutative-Ring.pdf)”
+    Ring](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Commutative-Ring.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage for a concise
@@ -229,7 +229,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.3.2 Non-Commutative Rings** <span id="3.3.2"></span> 
 -   **Reading: Wikipedia: “Noncommutative Ring”**
     Link: Wikipedia: “[Noncommutative
-    Ring](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Noncummutative-ring.pdf)”
+    Ring](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Noncummutative-ring.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage for a concise
@@ -247,12 +247,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Rings”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Rings”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Rings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “16.3 Ring
     Homomorphisms and Ideals,” pages 246-250.  
@@ -270,12 +270,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Rings:” “Exercise
     Problem
-    5”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Practice what you have learned by completing problem
     5 on page 258.  Then, check the solution on page 404.  
@@ -292,12 +292,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Rings”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Rings”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Rings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “16.4
     Maximal and Prime Ideals,” pages 250-252.  
@@ -315,12 +315,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Rings”: “Exercise
     Problem
-    4”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Try to do problem 4 on page 258.  Then, check the
     solution on page 404.  
@@ -352,7 +352,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: “Module (Mathematics)”**
     Link: Wikipedia: “[Module
-    (Mathematics)](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Module-mathematics.pdf)”
+    (Mathematics)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Module-mathematics.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage for a concise
@@ -369,12 +369,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Rings”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Rings”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Rings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “16.3 Ring
     Homomorphisms and Ideals,” pages 246-249.  
@@ -392,12 +392,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Rings”: “Exercise
     Problem
-    19”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    19”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Try to do problem 19 on page 259.  Then, check the
     solution on page 404.  
@@ -414,12 +414,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Rings”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Rings”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Rings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “16.3 Ring
     Homomorphisms and Ideals,” pages 249-250.  
@@ -436,12 +436,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Polynomials”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Polynomials”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Polynomials”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “Chapter
     17: Polynomials,” pages 263-277.  
@@ -459,11 +459,11 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Polynomials”: “Exercise
     Problem
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Try to do problem 2 on page 278, and then check the
     solution on page 405.  

@@ -93,12 +93,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Groups”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Groups”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Groups”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “3.2
     Definitions and Examples,” pages 40-47.  
@@ -132,12 +132,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Groups”: “Exercise
     Problems 2, 8, 15, and
-    17”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    17”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Work through problems 2, 8, 15, and 17 on page 51. 
     After you complete each exercise, please see the solutions on page
@@ -169,7 +169,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: Finite Groups**
     Link: Wikipedia: “[Finite
-    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Finite-group.pdf)”
+    Group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Finite-group.pdf)”
     (PDF)  
         
      Instructions: Please read the entire web page.  This webpage
@@ -208,12 +208,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Cyclic Groups”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
     “Cyclic Groups” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read Chapter 4,
     “Cyclic Groups”, pages 57-73.  
@@ -227,7 +227,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Knowledgerush: “Cyclic Group”**
     Link: Knowlegerush: “[Cyclic
-    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA231-2.2.2.pdf)” 
+    Group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA231-2.2.2.pdf)” 
     (PDF)  
         
      Instructions: Click on the link above, and read the webpage in its
@@ -255,12 +255,12 @@ Upon successful completion of this unit, the student will be able to:
     Problems 3 and 4”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
     “Cyclic Groups”: “Exercise Problems 3 and 4” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Complete problems 3 and 4 on page 69.  After you have
     finished each problem, check the solutions on page 397.  
@@ -277,12 +277,12 @@ Upon successful completion of this unit, the student will be able to:
     Abstract Algebra Theory and Applications: “Permutation Groups”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Permutation
-    Groups”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    Groups”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read Chapter 5
     “Permutation Groups”, pages 74-91.  
@@ -317,12 +317,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Permutation Groups”:
     “Exercise Problems 1, 2, and
-    3”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Work through problems 1, 2, and 3 on page 88.  After
     you complete these, check your answers on page 398.  
@@ -353,7 +353,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: “Symmetric Group”**
     Link: Wikipedia: “[Symmetric
-    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Symmetric-group.pdf)”
+    Group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Symmetric-group.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage.  This webpage
@@ -388,7 +388,7 @@ id="2.2.5"></span> 
 
 -   **Reading: Wikipedia: “General Linear Group”**
     Link: Wikipedia: “[General Linear
-    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/04/General-linear-group.pdf)”
+    Group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/General-linear-group.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage for a concise
@@ -406,12 +406,12 @@ id="2.2.5"></span> 
     Abstract Algebra Theory and Applications: “Groups”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Groups”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Groups”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “3.3
     Subgroups,” pages 47-50.  
@@ -442,12 +442,12 @@ id="2.2.5"></span> 
     Problems 34 and 40”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)*: *“Groups”:
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)*: *“Groups”:
     “Exercise Problems 34 and 40” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Complete problems 34 and 40 on page 52.  Then, check
     your answers against the solutions on page 397.  
@@ -464,12 +464,12 @@ id="2.2.5"></span> 
     Abstract Algebra Theory and Applications: “Homomorphisms”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Homomorphisms”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Homomorphisms”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “Chapter
     11: Homomorphisms,” pages 165-171.  
@@ -500,12 +500,12 @@ id="2.2.5"></span> 
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Homomorphisms”:
     “Exercise Problems 2, 4, and
-    9”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Try to do problems 2, 4, and 9 on page 173.  After
     you complete the assigned problems, check the solutions on page
@@ -523,12 +523,12 @@ id="2.2.5"></span> 
     Abstract Algebra Theory and Applications: “Isomorphisms”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications:
-    “Isomorphisms”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    “Isomorphisms”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “Chapter 9:
     Isomorphisms,” pages 141-151.  
@@ -546,12 +546,12 @@ id="2.2.5"></span> 
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Isomorphisms”: “Exercise
     Problems 1, 2, 6, and
-    8”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    8”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Work on problems 1, 2, 6, and 8 on page 151.  Then,
     check your answers against the solutions on page 401.  
@@ -571,12 +571,12 @@ id="2.6"></span> 
     Theorem”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf):
     “Cosets and LaGrange’s Theorem” (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “6.1
     Cosets,” pages 92-94.  
@@ -616,12 +616,12 @@ id="2.6"></span> 
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Cosets and Lagrange's
     Theorem”: “Exercise Problems 1 and
-    5”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Try to do problems 1 and 5 on page 98.  Then, check
     the solutions on page 399.  
@@ -640,12 +640,12 @@ id="2.6"></span> 
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Normal Subgroups and
     Factor
-    Groups”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) 
+    Groups”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf) 
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: For the section on examples of sets, read “Chapter
     10: Normal Subgroups and Factor Groups,” pages 155-161.  
@@ -678,12 +678,12 @@ id="2.6"></span> 
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     [Abstract Algebra Theory and Applications: “Normal Subgroups and
     Factor Groups”: “Exercise Problems 1, 8, and
-    13”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
+    13”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MA231-1.1.1book.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA231-1.1.1book-Thomas-W.-Judson.epub)  
       
      Instructions: Work through problems 1, 8, and 13 on page 163. 
     Then, check the solutions on page 402.  
